@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plans>
+        <info>
+                <name>
+                        <f_name>Nora</f_name>
+                        <l_name>Cook</l_name>
+                </name>
+        </info>
+        <plan>
+                <name>Stay at home</name>
+                <description>
+                        Lack of a car makes it difficult to go places so
+                        I am most likely going to just stay home.
+                </description>
+        </plan>
+        <plan>
+                <name>Homework</name>
+                <description>
+                        Using the lack of things to do, I am going to be 
+                        getting a bunch of projects done
+                </description>
+        </plan>
+</plans>

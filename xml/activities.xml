@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activities>
+        <activity>
+                <name>Read</name>
+                <destination>Wherever</destination>
+                <description>
+                        Use the break to catch up on your reading. Find a nice
+                        relaxing place, whether it is at your house or on a park
+                        bench.
+                </description>
+        </activity>
+        <activity>
+                <name>Camp</name>
+                <destination>National Park</destination>
+                <description>
+                        Get a group of friends together and spend the week
+                        enjoying the outdoors!
+                </description>
+        </activity>
+        <activity>
+                <name>Cruise</name>
+                <destination>Bahamas</destination>
+                <description>
+                        Take a cruise with your family and friends to the 
+                        bahamas. Enjoy the local food and go suba diving!
+                </description>
+        </activity>
+        <activity>
+                <name>Homework</name>
+                <destination>Home</destination>
+                <description>
+                        Use the break as an opportunity to catch up on your
+                        school projects!
+                </description>
+        </activity>
+        <activity>
+                <name>Movies</name>
+                <destination>Movie theater or Home</destination>
+                <description>
+                        Go out with friends and see new movies like Logan! Or 
+                        stay home and watch some classics!
+                </description>
+        </activity>
+        <activity>
+                <name>Dates</name>
+                <destination>Wherever</destination>
+                <description>
+                        Fire up Tinder and find some love! 
+                </description>
+        </activity>
+        <activity>
+                <name>Fishing</name>
+                <destination>Lake, sea, or ocean</destination>
+                <description>
+                        Spend a day relaxing by the water drinking beer and 
+                        trying to get a big catch!
+                </description>
+        </activity>
+        <activity>
+                <name>Shopping</name>
+                <destination>Mall</destination>
+                <description>
+                        Go to a mall and stock up on new clothes for Spring
+                        fashion!
+                </description>
+        </activity>
+        <activity>
+                <name>Volunteer</name>
+                <destination>Homeless Shelter</destination>
+                <description>
+                        Do some good! Helping out is a great way to give back
+                        and even make some new friends!
+                </description>
+        </activity>
+        <activity>
+                <name>Gaming</name>
+                <destination>Home</destination>
+                <description>
+                        Get a bunch of friends together and have a fun LAN party!
+                </description>
+        </activity>
+</activities>
